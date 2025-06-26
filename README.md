@@ -2,9 +2,6 @@
 
 [![Preview Image](https://austin-crouch.com/assets/img/SOCLab.png)](https://austin-crouch.com/assets/img/SOCLab.png)
 
-By _[Austin Crouch](https://twitter.com/AustinCrouch296)_
-
-_12 min_ read
 
 How are SOC analysts able to efficiently tackle security incidents across such large networks? The answer is automation!
 
