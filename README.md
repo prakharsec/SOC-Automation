@@ -1,7 +1,5 @@
 # SOC Automation Homelab
 
-Posted Mar 25, 2024  Updated Mar 28, 2024
-
 [![Preview Image](https://austin-crouch.com/assets/img/SOCLab.png)](https://austin-crouch.com/assets/img/SOCLab.png)
 
 By _[Austin Crouch](https://twitter.com/AustinCrouch296)_
